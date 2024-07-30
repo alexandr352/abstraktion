@@ -1,0 +1,33 @@
+{
+  "name": "abstraktion",
+  "version": "1.0.0",
+  "description": "Abstraction is an NPM package designed to facilitate communication with databases in three-layer server architecture",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexandr352/abstraktion.git"
+  },
+  "keywords": [
+    "database",
+    "abstraction",
+    "three-layer",
+    "architecture",
+    "server",
+    "ORM",
+    "bridges",
+    "data",
+    "validation",
+    "middleware",
+    "data",
+    "handling"
+  ],
+  "author": "Alexandr352 <alexandr352@proton.me>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alexandr352/abstraktion/issues"
+  },
+  "homepage": "https://github.com/alexandr352/abstraktion#readme"
+}
