@@ -1,5 +1,5 @@
 export abstract class Cast {
-    public abstract castObject: (item: any) => any;
+    public abstract castObject: (item: any) => any | undefined;
 
     public castArray(items: any[]): any[] {
         const castedItems: any[] = [];
