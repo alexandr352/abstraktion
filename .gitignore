@@ -1,0 +1,21 @@
+
+# Compilation Outputs
+dist
+
+# Node Modules
+node_modules
+
+# IDE and Editor Configurations
+.vscode/
+.idea/
+
+# Environment Configuration
+.env
+.env.local
+.env.*.local
+
+# TypeScript Cache
+*.tsbuildinfo
+
+# Log files
+*.log

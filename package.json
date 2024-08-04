@@ -29,5 +29,8 @@
   "bugs": {
     "url": "https://github.com/alexandr352/abstraktion/issues"
   },
-  "homepage": "https://github.com/alexandr352/abstraktion#readme"
+  "homepage": "https://github.com/alexandr352/abstraktion#readme",
+  "dependencies": {
+    "mongodb": "^6.8.0"
+  }
 }
